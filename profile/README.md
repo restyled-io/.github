@@ -15,7 +15,7 @@ auto-formatters][restylers] based on which files have changed, without any
 configuration from you. But if your project _does_ use an auto-formatter,
 configurations such as `.prettierc` will be respected when Restyled runs.
 
-[restylers]: https://docs.restyled.io/restylers
+[restylers]: https://github.com/restyled-io/restylers/blob/main/_docs/restylers.md
 
 **Simple and flexible**: the [`restyle` action itself][actions-run] re-formats
 files and commits any changes. That's it. What you do after that is up to you.
